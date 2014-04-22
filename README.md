@@ -11,7 +11,7 @@ Usage
 4. clone https://github.com/jhurt/GIRI
 5. Build the "Framework" target
 6. Add GIRI.framework to your XCode project. (right click on Products->libGIRI.a, select Show In Finder to find GIRI.framework)
-7. add #import <GIRI/GIRI.h> to your source file.
+7. add ```objective-c#import <GIRI/GIRI.h>``` to your source file.
 8. make a call to recognize speech from a wave file:
     
 ```objective-c
